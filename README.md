@@ -15,7 +15,7 @@ Projeyi bilgisayarınızda çalıştırmak için terminalde sırasıyla şu komu
 Canlı Önizleme: [Netlify Preview](https://tnccrud.netlify.app/)
 
 ```bash
-git clone [https://github.com/kullanici-adiniz/repo-adiniz.git](https://github.com/kullanici-adiniz/repo-adiniz.git)
+git clone (https://github.com/enesece/tnc-web-crud.git)
 cd proje-dizini
 npm install
 npm run dev
