@@ -13,6 +13,7 @@ Projeyi bilgisayarınızda çalıştırmak için terminalde sırasıyla şu komu
 ## 🔗 Bağlantılar ve Görseller
 
 Canlı Önizleme: [Netlify Preview](https://tnccrud.netlify.app/)
+![Proje Fotoğrafı](./public/projefoto.png)
 
 ```bash
 git clone (https://github.com/enesece/tnc-web-crud.git)
